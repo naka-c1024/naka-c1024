@@ -35,4 +35,4 @@
 
 <h2>Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,gcp,aws,dynamodb,mysql,postgres,sqlite,django,flask,pytorch,tensorflow,bootstrap,tailwind,git,github,gitlab,docker,linux,bash,postman,discord,atom,vim,vscode,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,ts,gcp,aws,dynamodb,mysql,postgres,sqlite,django,flask,pytorch,tensorflow,react,redux,nextjs,bootstrap,tailwind,vite,webpack,babel,git,github,gitlab,docker,linux,bash,postman,discord,atom,vim,vscode,&theme=light)](https://skillicons.dev)
